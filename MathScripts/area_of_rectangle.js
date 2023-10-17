@@ -2,7 +2,7 @@
 
 console.log("DOES THIS WORK?")
 
-//output
+//output : Area of a triangle is some number
 //A=wl
 
 var w = 15
